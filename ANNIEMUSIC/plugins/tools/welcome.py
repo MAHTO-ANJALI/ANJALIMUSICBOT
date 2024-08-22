@@ -145,7 +145,7 @@ async def greet_new_member(_, member: ChatMemberUpdated):
 ➻ Iᴅ ✧ {user.id}
 ➻ Usᴇʀɴᴀᴍᴇ ✧ @{user.username}
 ➻ Tᴏᴛᴀʟ Mᴇᴍʙᴇʀs ✧ {count}
- 🇲 ᴀᴅᴇ 🇧ʏ 🇲ʀ  🇧ʀᴏᴋᴇɴ 
+ 🇲 ᴀᴅᴇ 🇧ʏ 🇲 ᴀʜᴛᴏ 🇦 ɴᴊᴀʟɪ 
 ▰▰▰▰▰▰▰▰▰▰▰▰▰**
 **❅─────✧❅✦❅✧─────❅**
 """,
@@ -156,3 +156,4 @@ async def greet_new_member(_, member: ChatMemberUpdated):
             )
         except Exception as e:
             LOGGER.error(e)
+            
