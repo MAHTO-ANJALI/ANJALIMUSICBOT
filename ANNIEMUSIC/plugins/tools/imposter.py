@@ -7,8 +7,8 @@ from ANNIEMUSIC import app
 AB = [
     [
         InlineKeyboardButton(
-            text="𝐁ʀᴏᴋᴇɴ 𝐗 𝐍ᴇᴛᴡᴏʀᴋ ☠️",
-            url="https://t.me/Brokenxnetwork",
+            text="𝐀ɴᴊᴀʟɪ 𝐖ᴏʀʟᴅ ☠️",
+            url="https://t.me/ANJALIWORLD",
         ),
     ],
 ]
@@ -95,7 +95,7 @@ async def chk_usr(_, message: Message):
         )
     if msg != "":
         await message.reply_video(
-            "https://telegra.ph/file/4f0a703ae7b10a7049c61.mp4",
+            "https://te.legra.ph/file/81d15dc81bf7d67f5b4a0.mp4",
             caption=msg,
             reply_markup=InlineKeyboardMarkup(AB),
         )
