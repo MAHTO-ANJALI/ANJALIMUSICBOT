@@ -24,7 +24,7 @@ async def copy_messages(client, message: Message):
             except ValueError:
                 await message.reply("**Invalid destination ID.**\nPlease provide a valid integer ID. Or Promote Me As Admin in`{destination_group_id}`")
         else:
-            await message.reply("**Usage:**\n`/post` -1002200810390")
+            await message.reply("**Usage:**\n`/post` -1001970031336")
     else:
         await message.reply("Please reply to the message you want to post.")
 
