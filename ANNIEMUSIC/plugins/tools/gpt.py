@@ -61,7 +61,7 @@ async def chat_annie(app, message):
         await app.send_chat_action(message.chat.id, ChatAction.TYPING)
         name = message.from_user.first_name
         if len(message.command) < 2:
-            await message.reply_text(f"**Hello {name}, Myself Yumi. How can I help you today?**")
+            await message.reply_text(f"**Hello {name}, Myself Anjali. How can I help you today?**")
         else:
             query = message.text.split(' ', 1)[1]
             MODEL = "gpt-3.5-turbo"
@@ -70,8 +70,8 @@ async def chat_annie(app, message):
             response_text = resp['choices'][0]["message"]["content"]
             tts = gTTS(response_text, lang='en')
             tts.save('Miss_YumiPro_bot.mp3')
-            await app.send_voice(chat_id=message.chat.id, voice='Miss_YumiPro_Bot.mp3')
-            os.remove('Miss_YumiPro_bot.mp3')
+            await app.send_voice(chat_id=message.chat.id, voice='TheAnjaliBot.mp3')
+            os.remove('TheAnjaliBot.mp3')
     except Exception as e:
         await message.reply_text(f"**Error**: {e}")
 
