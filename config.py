@@ -84,10 +84,10 @@ autoclean = []
 confirmer = {}
 
 START_VID_URL = getenv(
-    "START_VID_URL", "https://te.legra.ph/file/0c56841859f735bb4d6f0.mp4"
+    "START_IMG_URL", "https://te.legra.ph/file/dcf4aebf3a6059952fce9.png"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://te.legra.ph/file/e256025e395b0417dbd34.jpg"
+    "PING_VID_URL", "https://te.legra.ph/file/0c56841859f735bb4d6f0.mp4"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/1dca3157eb1d637846d87.jpg"
 STATS_IMG_URL = "https://te.legra.ph/file/17d19061f86cb1ebbddec.jpg"
