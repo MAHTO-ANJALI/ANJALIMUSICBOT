@@ -17,8 +17,8 @@ def reply_to_owner_query(query):
     
     if normalized_query in recognized_queries:
         response = {
-            "message": ("My Owner Name is Mr Broken. You Can Call Him Broken also.\n"
-                        "मेरा मालिक का नाम Broken है। आप उनको सिर्फ broken भी कह सकते हैं।")
+            "message": ("My Owner Name is Miss Anjali. You Can Call Her Anjali also.\n"
+                        "मेरा मालकिन का नाम Anjali है। आप उनको सिर्फ Anju भी कह सकते हैं।")
         }
     else:
         response = {
