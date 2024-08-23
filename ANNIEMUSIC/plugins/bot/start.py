@@ -49,6 +49,7 @@ ANNIE_VID = [
     "https://telegra.ph/file/a4cb485d162d69037b630.jpg", 
     "https://te.legra.ph/file/c3fac644e2b36123583c0.jpg", 
     "https://telegra.ph/file/69e9522016014d6838ad3.jpg", 
+]
 
 STICKERS = [
     "CAACAgUAAxkBAAIGgGZ-FKBKqmFPfCvY_r5Rv5QHgCZXAAJrDwACUyI5V0DyywS65FCUHgQ",
