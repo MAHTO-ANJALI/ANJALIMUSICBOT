@@ -44,14 +44,14 @@ async def chat_gpt(bot, message):
             owner_response = reply_to_owner_query(query)
             if owner_response["message"] != "Message not recognized.":
                 await message.reply_text(
-                    f"{owner_response['message']}\nᴀɴsᴡᴇʀɪɴɢ ʙʏ ➛  @Miss_YumiPro_Bot \nᴀsᴋᴇᴅ ʙʏ ➛ {name}", 
+                    f"{owner_response['message']}\nᴀɴsᴡᴇʀɪɴɢ ʙʏ ➛  @TheAnjaliBot \nᴀsᴋᴇᴅ ʙʏ ➛ {name}", 
                     parse_mode=ParseMode.MARKDOWN
                 )
             else:
                 # Use the external API for other queries
                 response = api.gemini(query)["results"]
                 await message.reply_text(
-                    f"{response}\nᴀɴsᴡᴇʀɪɴɢ ʙʏ ➛  @Miss_YumiPro_Bot \nᴀsᴋᴇᴅ ʙʏ ➛ {name}", 
+                    f"{response}\nᴀɴsᴡᴇʀɪɴɢ ʙʏ ➛  @TheAnjaliBot \nᴀsᴋᴇᴅ ʙʏ ➛ {name}", 
                     parse_mode=ParseMode.MARKDOWN
                 )
     except Exception as e:
