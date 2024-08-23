@@ -83,8 +83,8 @@ votemode = {}
 autoclean = []
 confirmer = {}
 
-START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/file/dcf4aebf3a6059952fce9.png"
+START_VID_URL = getenv(
+    "START_VID_URL", "https://te.legra.ph/file/0c56841859f735bb4d6f0.mp4"
 )
 PING_VID_URL = getenv(
     "PING_VID_URL", "https://te.legra.ph/file/0c56841859f735bb4d6f0.mp4"
