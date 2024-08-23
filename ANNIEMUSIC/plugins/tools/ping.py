@@ -17,7 +17,7 @@ from config import BANNED_USERS
 async def ping_com(client, message: Message, _):
     start = datetime.now()
     response = await message.reply_video(
-        video="https://telegra.ph/file/4f0a703ae7b10a7049c61.mp4",
+        video="https://te.legra.ph/file/0c56841859f735bb4d6f0.mp4",
         caption=_["ping_1"].format(app.mention),
     )
     pytgping = await JARVIS.ping()
