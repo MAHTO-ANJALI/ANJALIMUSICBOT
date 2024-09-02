@@ -51,7 +51,7 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("ANJLAIOFFICIALNETWORK")
+                await self.one.join_chat("ANJALIOFFICIALNETWORK")
               
                 await self.one.join_chat("ANJALISUPPORTNETWORK")
             except:
@@ -74,7 +74,7 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("ANJLAIOFFICIALNETWORK")
+                await self.two.join_chat("ANJALIOFFICIALNETWORK")
                 
                 await self.one.join_chat("ANJALISUPPORTNETWORK")
             except:
@@ -96,7 +96,7 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("ANJLAIOFFICIALNETWORK")
+                await self.three.join_chat("ANJALIOFFICIALNETWORK")
                 
                 await self.one.join_chat("ANJALISUPPORTNETWORK")
             except:
@@ -118,7 +118,7 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("ANJLAIOFFICIALNETWORK")
+                await self.four.join_chat("ANJALIOFFICIALNETWORK")
                 
                 await self.one.join_chat("ANJALISUPPORTNETWORK")
             except:
@@ -140,7 +140,7 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("ANJLAIOFFICIALNETWORK")
+                await self.five.join_chat("ANJALIOFFICIALNETWORK")
                 
                 await self.one.join_chat("ANJALISUPPORTNETWORK")
             except:
