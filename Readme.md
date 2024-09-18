@@ -20,6 +20,11 @@
 <a href="https://github.com/MAHTO-ANJALIMAHTO-ANJALI/ANJALIMUSICBOT/commits/MAHTO-ANJALI"> <img src="https://img.shields.io/github/last-commit/venombolteop/VenomMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
+<p align="middle"><b>ᴅᴇᴍᴏ ʙᴏᴛ</b><br>
+</p>
+<p align="center"> <a href="https://t.me/TheAnjaliBot"><img src="https://img.shields.io/badge/🖤-Demo%20Bot-blue.svg?style=for-the-badge"></a></p>
+
+
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
