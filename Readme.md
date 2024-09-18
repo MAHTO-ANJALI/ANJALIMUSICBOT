@@ -1,5 +1,4 @@
-<p align="center"><a href="https://github.com/MAHTO-ANJALI/ANJALIMUSICBOT/blob/main/pampa.txt"> <img src="https://img.shields.io/badge/Add%20Your%20Cookies-blue?style=for-the-badge" width="220" height="38.45"/></a></p>
-  
+
   
 <p align="center"><a href="https://t.me/AnjaliOwnerBot"> <img src="https://img.shields.io/badge/Credit%20To%20Owner-darkred?style=for-the-badge" width="220" height="38.45"/></a></p>
 
@@ -9,7 +8,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://envs.sh/qte.jpg">
+  <img src="https://envs.sh/qtc.jpg">
 </p>
 
 <p align="center">
