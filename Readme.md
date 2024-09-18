@@ -17,7 +17,7 @@
 <a href="https://github.com/MAHTO-ANJALI/MAHTO-ANJALI/network/members"> <img src="https://img.shields.io/github/forks/MAHTO-ANJALI/ANJALIMUSICBOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/MAHTO-ANJALI/ANJALIMUSICBOT/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/MAHTO-ANJALIMAHTO-ANJALI/ANJALIMUSICBOT/commits/MAHTO-ANJALI"> <img src="https://img.shields.io/github/last-commit/venombolteop/VenomMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/MAHTO-ANJALI/ANJALIMUSICBOT/commits/MAHTO-ANJALI"> <img src="https://img.shields.io/github/last-commit/MAHTO-ANJALI/ANJALIMUSICBOT?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="middle"><b>ᴅᴇᴍᴏ ʙᴏᴛ</b><br>
