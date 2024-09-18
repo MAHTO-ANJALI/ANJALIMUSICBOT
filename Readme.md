@@ -9,7 +9,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/754e95311eccb48b7aafc.jpg">
+  <img src="https://envs.sh/qte.jpg">
 </p>
 
 <p align="center">
